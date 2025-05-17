@@ -1,29 +1,32 @@
 {
   "expo": {
-    "name": "movie-mania",
+    "name": "MovieMania",
     "slug": "movie-mania",
     "version": "1.0.0",
-    "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121212"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
+      "package": "com.moviemania.tamds",
+      "versionCode": 1,
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e604706c-7d0c-4448-ae7a-d34a4be2bf7f"
+      }
     }
   }
 }
