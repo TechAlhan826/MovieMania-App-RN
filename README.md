@@ -51,25 +51,24 @@ All of this is wrapped in a modern **dark-themed** UI optimized for mobile viewi
 ## 📸 Preview
 
 ## 🎥 Live Demo
-![Demo Video](https://drive.google.com/file/d/1hhkXGuJTlyS_tdDl1Ms2GBmztyTZlVkB/view?usp=drivesdk)
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-%F0%9F%8E%A5-blue)](https://drive.google.com/file/d/1hhkXGuJTlyS_tdDl1Ms2GBmztyTZlVkB/view?usp=drivesdk)
 
 ## 🔹 Screenshots
 
 ### 🚀 Splash Screen
-![Splash screen](./assets/mm-splash-screen.jpg)
+<img src="./assets/mm-splash-screen.jpg" alt="Splash screen" width="300" />
 
 ### 🎯 Home Screen
-![Home screen](./assets/mm-genre-filter.jpg)
+<img src="./assets/mm-genre-filter.jpg" alt="Home screen" width="300" />
 
 ### 🔍 Search Functionality
-![Search](./assets/mm-search-movies.jpg)
+<img src="./assets/mm-search-movies.jpg" alt="Search screen" width="300" />
 
 ### 📝 Movie Details Show More
-![Details](./assets/mm-movie-details_show-more.jpg)
+<img src="./assets/mm-movie-details_show-more.jpg" alt="Movie details" width="300" />
 
 ### 🎬 Genre Filters
-![Genre Filter](./assets/mm-all-genres.jpg)
-
+<img src="./assets/mm-all-genres.jpg" alt="Genre filter" width="300" />
 
 ---
 
